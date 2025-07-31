@@ -1,2 +1,2 @@
 # OnlineKitab
-This is my first commit
+Just some notes 
